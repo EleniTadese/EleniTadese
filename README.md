@@ -74,4 +74,25 @@ I am currently gaining hands-on experience through my projects and certification
 
 <p align="center">
   <a href="https://linkedin.com/in/eleni-tadese" target="_blank">
-  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleni-tadese" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/elenitadese" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="elenitadese" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact:
+
+- I’m passionate about technology’s role in empowering communities, especially focusing on providing opportunities for female students in Ethiopia to excel in the tech field.
+
+---
+
+### 📜 My Certifications & Projects:
+
+I am also working on certifications to improve my programming skills and I’m developing projects like a restaurant ordering system in C++ and solving computational problems on Codeforces (CSEC_CPD repository).
+
+---
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss programming and technology!
