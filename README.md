@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About Me
 
-I’m currently a **third-year student** focusing on enhancing my skills in **Python**, **HTML**, and **CSS**. My goal is to become a **full-stack developer** and leverage technology to empower communities, particularly supporting **female students** through education and tech initiatives in Ethiopia.
+I’m currently a **third-year student** focusing on enhancing my skills in **Python**, **HTML**, and **CSS**. My goal is to become a **full-stack developer** and leverage technology to empower communities, particularly supporting **female students in Ethiopia** through education and tech initiatives.
 
 ### 📈 GitHub Stats
 
@@ -37,4 +37,24 @@ I’m currently a **third-year student** focusing on enhancing my skills in **Py
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-o
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+</div>
+
+### 📄 My Projects
+
+You can explore my projects on my GitHub repositories. I'm constantly working on improving my skills and sharing projects that aim to provide value, especially in the realm of web development.
+
+### 📌 Connect With Me:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eleni-tadese/" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:elenitade1221@gmail.com" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+</div>
