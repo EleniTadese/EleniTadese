@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Improving my full-stack development skills, learning advanced Python techniques, and gaining more experience with JavaScript.**
 
-- 👨‍💻 All of my projects are available at [GitHub: Eleni Tadese](GitHub: Eleni Tadese)
+- 👨‍💻 All of my projects are available at (GitHub: Eleni Tadese)
 
 - 📝 I regularly write articles on [Currently, I’m focusing on learning resources and my journey in web development, but I plan to share articles on technology empowerment, especially in the context of education for female students in Ethiopia.](Currently, I’m focusing on learning resources and my journey in web development, but I plan to share articles on technology empowerment, especially in the context of education for female students in Ethiopia.)
 
